@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1094069015152",
+    "firebase_url": "https://flushare-c0e0c.firebaseio.com",
+    "project_id": "flushare-c0e0c",
+    "storage_bucket": "flushare-c0e0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094069015152:android:a85f2bba628e4dd73b1ab5",
+        "android_client_info": {
+          "package_name": "com.iskhakasanov.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094069015152-66q89i4lmcpka66jmrq71rf5sefst003.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iskhakasanov.fluttershare",
+            "certificate_hash": "6a0a0f9cdd97503306f70c7976c47f682ffcec6e"
+          }
+        },
+        {
+          "client_id": "1094069015152-pagv7qorg70m3fbe9jr0cuvtqklrk5dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_uTXjwgUb4yo_sU-3jUUEJjWX7Dg4DQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094069015152-pagv7qorg70m3fbe9jr0cuvtqklrk5dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
